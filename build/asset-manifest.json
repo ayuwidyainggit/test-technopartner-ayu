@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/test-technopartner/static/css/main.fa087e3a.css",
+    "main.js": "/test-technopartner/static/js/main.f9d9809c.js",
+    "static/js/787.1d4ba9da.chunk.js": "/test-technopartner/static/js/787.1d4ba9da.chunk.js",
+    "static/media/motif.png": "/test-technopartner/static/media/motif.6e2607f61ae2df15ed07.png",
+    "static/media/logo_technopartner.png": "/test-technopartner/static/media/logo_technopartner.b7008167562b5bf0a769.png",
+    "static/media/qr.png": "/test-technopartner/static/media/qr.f35a964dd53f2ddf832b.png",
+    "index.html": "/test-technopartner/index.html",
+    "main.fa087e3a.css.map": "/test-technopartner/static/css/main.fa087e3a.css.map",
+    "main.f9d9809c.js.map": "/test-technopartner/static/js/main.f9d9809c.js.map",
+    "787.1d4ba9da.chunk.js.map": "/test-technopartner/static/js/787.1d4ba9da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa087e3a.css",
+    "static/js/main.f9d9809c.js"
+  ]
+}
